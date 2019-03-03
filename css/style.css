@@ -1070,15 +1070,18 @@ Elements
 #owl-works {
 
 }
-
+.photo_gallery{
+	height: 200px;
+}
 .item {
     margin: 10px;
+    height: 100%;
 }
 
 .item img {
     display: block;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100%;
 }	
 
 /* =========================
